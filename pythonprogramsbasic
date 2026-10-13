@@ -1,12 +1,32 @@
-write a program to print the subtraction of two integers entered by the user?
-ans:
-        a=int(input("enter value of a:"))
-        b=int(input("enter value of b:"))
-        c=a-b
-        print(c)
+1. write a program to print the subtraction of two integers entered by the user?
 
-write a program to print the square of an integer number entered by the user?
-ans:
-        a=int(input("enter value:"))
-        b=a*a
-        print(b)
+a=int(input("enter value of a:"))
+b=int(input("enter value of b:"))
+c=a-b
+print(c)
+
+2. write a program to print the square of an integer number entered by the user?
+
+a=int(input("enter value:"))
+b=a*a
+print(b)
+
+3. write a program to reverse the string entered by the user?
+
+a=input("enter:")
+reverse=a[::-1]
+print(reverse)
+
+4. write a program to find a area of a rectangle?
+
+l=int(input("enter length:"))
+b=int(input("enter breadth:"))
+a=l*b
+print(a)
+
+5. Get input for variable name and age.(Print sample input:"EMC" and "1".)
+
+a=input("enter:")
+b=input("enter:")
+print("My name is :",a)
+print("MY age is :",b)
