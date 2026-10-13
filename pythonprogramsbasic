@@ -1,0 +1,12 @@
+write a program to print the subtraction of two integers entered by the user?
+ans:
+        a=int(input("enter value of a:"))
+        b=int(input("enter value of b:"))
+        c=a-b
+        print(c)
+
+write a program to print the square of an integer number entered by the user?
+ans:
+        a=int(input("enter value:"))
+        b=a*a
+        print(b)
