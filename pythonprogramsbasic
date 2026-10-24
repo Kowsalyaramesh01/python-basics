@@ -30,3 +30,5 @@ a=input("enter:")
 b=input("enter:")
 print("My name is :",a)
 print("MY age is :",b)
+
+
